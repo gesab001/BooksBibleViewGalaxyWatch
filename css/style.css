@@ -13,6 +13,7 @@ html, body {
     width: 100%;
     height: 100%;
     display: table;
+
 }
 
 #contents {
@@ -22,6 +23,7 @@ html, body {
     background-color:#aaaaff;
     -webkit-tap-highlight-color: transparent;
     padding: 5px;
+    overflow: auto;    
 }
 
 #content_text {
@@ -152,4 +154,5 @@ html, body {
     color: #ffffff;
     text-align: center;
 }
+
 
