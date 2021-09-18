@@ -142,9 +142,9 @@ html, body {
 }
 
 #number-contact {
-    /*position: absolute;*/
+    position: absolute;
     left: 54px;
-    bottom: 59px;
+    bottom: 0px;
     width: 252px;
     height: 37px;
     font-size: 28px;

@@ -14,8 +14,8 @@ Lz3tn2kO7Q==</DigestValue>
 </Reference>
 <Reference URI="author-signature.xml">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
-<DigestValue>RDgA8Pm7WUlNpMjtHV6piiZMiJ0immHWmBxVu6xWBABnkT4aS9KV2mzpOqHI3d8MZ2mG7IJ5AxuD
-tiWrFwJYXQ==</DigestValue>
+<DigestValue>lxlArPFD5NWDW9aM0uan7SSA3aVgrdfpyEPucC+aQ5+qu439Cchx7tLkPeGlwA65HH0gB/EsrfBi
++odOlxom6Q==</DigestValue>
 </Reference>
 <Reference URI="config.xml">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
@@ -29,8 +29,8 @@ OR1Sqbvfag==</DigestValue>
 </Reference>
 <Reference URI="css%2Fstyle.css">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
-<DigestValue>GYVZuodrYqPL7Jwu6F+R13tDAqT7FAtf9mm1iBIyV4P/Ox/4CoDNFbP+j1VoA77IF4k+F00RdeTW
-PsXLI9Kuzw==</DigestValue>
+<DigestValue>BvZ4VsA/HgbKz0q0gqi0IN9rXLvhODHo8Hp2l74Cj3PgF2WGKlElvOBgYv9jlAAIKDx7FBTHID4q
+Kavxydzg4A==</DigestValue>
 </Reference>
 <Reference URI="icon.png">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
@@ -114,8 +114,8 @@ YSccxwoiWg==</DigestValue>
 </Reference>
 <Reference URI="index.html">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
-<DigestValue>egTYP5eeqH2fCxPF/jRs8D2ZVlrX7a/Cc38TIergaNc4+/JO59q65NXWb8t5ZuJXrjTloKj7g5iJ
-7uNE7LkKwQ==</DigestValue>
+<DigestValue>6cbqkSs4UZwUGZi6GU+wr2sWZQMrhPzb5xfgGEFuagxHJSj3pXMWuQ4muIfUvn8Vy5w5DBRXVK+P
+5hRj2yho/w==</DigestValue>
 </Reference>
 <Reference URI="js%2Fapp.js">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
@@ -147,9 +147,9 @@ GyvKX9Snig==</DigestValue>
 </Reference>
 </SignedInfo>
 <SignatureValue>
-sPtFQbIoBSuW/RqlTNKwjgivFckrUTiYIvlQaic/inssigtSvqgWQlRY0kxB2x1fYmn5RxqIDfOB
-RcWdSFX28Cv0Ne25EwsnWkS3s5O247Ww+RYjedtlGSDPgxm1LeTd1SlVUYpnIBjjbEfDBknzHMoj
-QmYfxyV+0VAKNZLqvac=
+UGm3nBjfc/0/Gn8yvh/BICAlue1B2L2JH/Fb5sPtx8jGlEuqjfN1SoclTZnXjPRZA+YilHtoZOym
+qJDuv7iDkU+xnut0BMw9IYvRdJ6ETEuE3dy33qrHUDOAJAoFES3qAb3UqQXHXmuC5tZYFsCppX00
+78o/E5JV5KzjoUt6VkE=
 </SignatureValue>
 <KeyInfo>
 <X509Data>
