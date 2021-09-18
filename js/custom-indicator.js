@@ -127,77 +127,77 @@ var listController = (function() {
                 "width": "27px",
                 "height": "27px",
                 "opacity": "0.2",
-                "font-size": "17px",
+                "font-size": "8px",
                 "line-height": "27px"
             },
             "POS_-4": {
                 "width": "36px",
                 "height": "36px",
                 "opacity": "0.4",
-                "font-size": "23px",
+                "font-size": "10px",
                 "line-height": "36px"
             },
             "POS_-3": {
                 "width": "40px",
                 "height": "40px",
                 "opacity": "0.6",
-                "font-size": "25px",
+                "font-size": "12px",
                 "line-height": "40px"
             },
             "POS_-2": {
                 "width": "46px",
                 "height": "46px",
                 "opacity": "0.8",
-                "font-size": "29px",
+                "font-size": "15px",
                 "line-height": "46px"
             },
             "POS_-1": {
                 "width": "56px",
                 "height": "56px",
                 "opacity": "1.0",
-                "font-size": "35px",
+                "font-size": "20px",
                 "line-height": "56px"
             },
             "POS_0": {
                 "width": "76px",
                 "height": "76px",
                 "opacity": "1.0",
-                "font-size": "48px",
+                "font-size": "24px",
                 "line-height": "76px"
             },
             "POS_1": {
                 "width": "56px",
                 "height": "56px",
                 "opacity": "1.0",
-                "font-size": "35px",
+                "font-size": "20px",
                 "line-height": "56px"
             },
             "POS_2": {
                 "width": "46px",
                 "height": "46px",
                 "opacity": "0.8",
-                "font-size": "29px",
+                "font-size": "15px",
                 "line-height": "46px"
             },
             "POS_3": {
                 "width": "40px",
                 "height": "40px",
                 "opacity": "0.6",
-                "font-size": "25px",
+                "font-size": "12px",
                 "line-height": "40px"
             },
             "POS_4": {
                 "width": "36px",
                 "height": "36px",
                 "opacity": "0.4",
-                "font-size": "23px",
+                "font-size": "10px",
                 "line-height": "36px"
             },
             "POS_5": {
                 "width": "27px",
                 "height": "27px",
                 "opacity": "0.2",
-                "font-size": "17px",
+                "font-size": "8px",
                 "line-height": "27px"
             },
             "POS_OUT": {
@@ -556,9 +556,9 @@ var listController = (function() {
             }
         } else if (name.length > 0) {
             if (callback && typeof callback === "function") {
-                thmNew = createThumbnail(name.substring(0, 1), "string", callback);
+                thmNew = createThumbnail(name.replace(" ", "").substring(0,3), "string", callback);
             } else {
-                thmNew = createThumbnail(name.substring(0, 1), "string");
+                thmNew = createThumbnail(name.replace(" ", "").substring(0,3), "string");
             }
         } else {
             if (callback && typeof callback === "function") {

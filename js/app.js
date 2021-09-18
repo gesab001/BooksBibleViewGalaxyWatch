@@ -58,7 +58,7 @@
             // (1st element)
             // No data
             // (After 2nd element)
-            "./image/icon-04.png",
+            null,
             null,
             null,
             null,
