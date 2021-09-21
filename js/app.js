@@ -313,6 +313,8 @@
         window.addEventListener("tizenhwkey", keyEventHandler);
         // Add both pages to the page controller
         pageController.addPage("page-main");
+        pageController.addPage("page-settings");
+
         pageController.addPage("page-contact");
         // Set callback functions for scroll up and down
         // Those functions will animate the header if needed.
