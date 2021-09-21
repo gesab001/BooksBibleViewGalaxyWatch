@@ -29,8 +29,8 @@ GRs2Avv4NA==</DigestValue>
 </Reference>
 <Reference URI="author-signature.xml">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
-<DigestValue>rK2uHNhcPN3SS9N65SYmcKANQQ1Xyh2eVosG0HxL3f9a4UwJ8VLzod3f+Qle1sP+oYw9CU6RWcLI
-VwmtnmYgmw==</DigestValue>
+<DigestValue>tH+EiCeZsUlGcwdjWGDiRF9W3NuU3zaLfihPrcAi8VAq5WXBmQUVpeCtGFgAb1SxFO6i+izhtK9S
+9Ti95AhDpw==</DigestValue>
 </Reference>
 <Reference URI="bibleallverses.json">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
@@ -139,8 +139,8 @@ YSccxwoiWg==</DigestValue>
 </Reference>
 <Reference URI="index.html">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
-<DigestValue>PN9+Rxttbp2c+5V/oTBUOFYxdDeEqHcvQS8Tukh2QdvdOLRfQGx+qvvgJ/rSpb2V5FHAkgrcuBEr
-E8z6SPC84Q==</DigestValue>
+<DigestValue>XjnOK/En8tuTHEFnO7LFFNlf4ZUc45BkvfiSA3Y3R/4nSQndddqjQVxwNS6tf8IvzlCEGCxGkJQT
+ajqaW4xijg==</DigestValue>
 </Reference>
 <Reference URI="js%2Fapp.js">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
@@ -167,6 +167,11 @@ DBrfErBicg==</DigestValue>
 <DigestValue>2cewEbHRd34ek3TY7D+6RsLbJZJ6YXm2f+GeArmdhVjHe/CGTZPwdMRONk0gTz+iTbzFPSAQQNG/
 MKrJ/T6ZOg==</DigestValue>
 </Reference>
+<Reference URI="testarabicbible.txt">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+<DigestValue>CHQBL6QOLzV+omr2ITgJF/tYww2bP1Fl+2ModI7v760t3adcfQFLYbaq8JOOgXsPwsPpcC96Mpqe
+WqOuljAMpA==</DigestValue>
+</Reference>
 <Reference URI="version.txt">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
 <DigestValue>SyU3HkAmlBsfM6uaAGzQA+MaDMjGavRV7zwst0d9YqYJTtifh0vpA1GJ5Yp68zHnCNLwRiy4h0MI
@@ -182,9 +187,9 @@ GyvKX9Snig==</DigestValue>
 </Reference>
 </SignedInfo>
 <SignatureValue>
-YWYge+pcgIbqmz5QIxCn87RT8xjXQV9J1wizY6OIGZxgzBm0UtXtioN1vduDWgGL8bm6MdpBjRBN
-kWj/YY/tp8Ye09KqCHg60qXvOsGaLi1w7IE+/8n7eIJmus4Z/5zeL19vC++PsMI0XI8nAzZnbd8V
-YUZNNNWtKjZepabJiVI=
+Z5z6g8CdIss1J+1Zczl50CYMe2gsFky8GfxrmJMZlwNKGVUNn5qXS0KIIn1zu+UMDOu1hZEUmPJ+
+qTZjcTFXgNigYQdVXMvRC7cVg8eFBR6VOuQBPHM9ZU5t1i9BbeUzyixQZ4I9ZWvoJY6FK9yFzhrQ
+r8uRvnPDUHnBEDeoo48=
 </SignatureValue>
 <KeyInfo>
 <X509Data>

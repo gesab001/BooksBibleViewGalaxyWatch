@@ -134,8 +134,8 @@ YSccxwoiWg==</DigestValue>
 </Reference>
 <Reference URI="index.html">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
-<DigestValue>PN9+Rxttbp2c+5V/oTBUOFYxdDeEqHcvQS8Tukh2QdvdOLRfQGx+qvvgJ/rSpb2V5FHAkgrcuBEr
-E8z6SPC84Q==</DigestValue>
+<DigestValue>XjnOK/En8tuTHEFnO7LFFNlf4ZUc45BkvfiSA3Y3R/4nSQndddqjQVxwNS6tf8IvzlCEGCxGkJQT
+ajqaW4xijg==</DigestValue>
 </Reference>
 <Reference URI="js%2Fapp.js">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
@@ -162,6 +162,11 @@ DBrfErBicg==</DigestValue>
 <DigestValue>2cewEbHRd34ek3TY7D+6RsLbJZJ6YXm2f+GeArmdhVjHe/CGTZPwdMRONk0gTz+iTbzFPSAQQNG/
 MKrJ/T6ZOg==</DigestValue>
 </Reference>
+<Reference URI="testarabicbible.txt">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+<DigestValue>CHQBL6QOLzV+omr2ITgJF/tYww2bP1Fl+2ModI7v760t3adcfQFLYbaq8JOOgXsPwsPpcC96Mpqe
+WqOuljAMpA==</DigestValue>
+</Reference>
 <Reference URI="version.txt">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
 <DigestValue>SyU3HkAmlBsfM6uaAGzQA+MaDMjGavRV7zwst0d9YqYJTtifh0vpA1GJ5Yp68zHnCNLwRiy4h0MI
@@ -177,9 +182,9 @@ QY10fG1EWQ==</DigestValue>
 </Reference>
 </SignedInfo>
 <SignatureValue>
-borvkODbMV9zYmyCyF+J765X4uyVnCiulxX1qlImbNji//AQ9AQYHONQ7Yx9sMhycTZx0B/ki2iZ
-2JoEJYeh0eVExe38S+5CVYtEaoYwRi/3Zstq2IzgAFaYLDH6eZCIVAe37YA6YobWzBQmE+61bZ/g
-ICNvj3AbKyYTkg0btT0=
+JXWdnnodlRwTQWbVLnNA+YHRuOcfSzU0HEzFOpxV6hT6WaQ8tAtaqVxQ2TLCO7bnAcj+VzdYwnSH
+21+gESTVUd0tlI1EUb+XnEMJCPMutZcqYNwBIdguGVNzdRGoVOI4/UK71Eq79oo+FFiPJJ6Da6aC
+OFkn1EuXTvwYdESoUtk=
 </SignatureValue>
 <KeyInfo>
 <X509Data>
